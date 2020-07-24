@@ -4,7 +4,7 @@ public class DemoNew {
 		// TODO Auto-generated method stub
 
 		for (int i=0; i<10; i++) {
-				System.out.print("Hellow World :"+i);
+				System.out.print("Hellow World :"+ i);
 			}
 	}
 
